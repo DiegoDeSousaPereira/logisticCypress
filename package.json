@@ -1,0 +1,17 @@
+{
+  "name": "logistc",
+  "version": "1.0.0",
+  "description": "Automação logistic",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Diego Sousa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.3.0",
+    "@faker-js/faker": "^7.6.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-plugin-api": "^2.10.3"
+  }
+}

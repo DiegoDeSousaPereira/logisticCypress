@@ -1,0 +1,68 @@
+
+{
+    "registration": {
+        "user": "mylycy.carvalho@t10.digital",
+        "password": "ad:MNYJy",
+        "image": "fotoMotorista.jpg"
+    },
+    "invalidUser": {
+        "user": "mylycy.carvalho@tdh.digital",
+        "password": "ad:MNYJy",
+        "image": "fotoMotorista.jpg"
+    },
+    "invalidPassword": {
+        "user": "mylycy.carvalho@t10.digital",
+        "password": "ad:MNYfr",
+        "image": "fotoMotorista.jpg"
+    },
+    "fillForm": {
+        "group": "A.2",
+        "name": "Teste automacao",
+        "nameFake": "nao apague",
+        "business name": "Teste automacao",
+        "cnpj": "11111111111111",
+        "email": "automaçãotese@gmail.com",
+        "cpf": "11111111111",
+        "rg": "111111111",
+        "cnh": "11111111111",
+        "validity":"12122030",
+        "phone": "11981610101",
+        "phoneHelper": "11981660102",
+            "adress": {
+                "zipCode": "06401015",
+                "number": "015"
+            }
+    },
+    "formVeiche":{
+        "name": "hudson",
+        "plate": "RRR-6622",
+        "capacity": "132"
+
+    },
+    "formBusiness":{
+        "name": "Teste automacao",
+        "corporateName": "Teste automacao",
+        "cnpj": "03.415.812/0001-96",
+        "email":"automaçãoteste@gmail.com",
+        "zipCode": "06401015",
+        "number": "1023"
+    },
+    "formOrder":{
+        "name": "Teste automacao",
+        "corporateName": "Teste automacao",
+        "cnpj": "03.415.812/0001-96",
+        "email":"automaçãoteste@gmail.com",
+        "zipCode": "06401015",
+        "number": "1023"
+    },
+    "formOcurrence": {
+        "occurrenceCategory": "Procedimento",
+        "subCategory": "Uniforme",
+        "orderId": "1679059993_97688B2B_M",
+        "date": "11/11/2022",
+        "warnedAdvance": "SIM",
+        "discountAmount": "1000",
+        "describe": "teste",
+        "origin" : "RC"
+    }
+}
